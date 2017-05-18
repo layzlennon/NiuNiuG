@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/Classes/SDKManager.cpp \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/Classes/SDKManager.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/AgentManager.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/PluginManager.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/PluginProtocol.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/PluginParam.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/PluginFactory.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolIAP.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolAnalytics.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolShare.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolAds.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolSocial.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolUser.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolPush.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolCrash.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolREC.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolCustom.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/runtime-src/proj.ios_mac/../../cocos2d-x/external/ios/include/anysdk/ProtocolAdTracking.h
