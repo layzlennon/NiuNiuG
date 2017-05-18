@@ -1,104 +1,187 @@
-2017-05-18T06:09:25.185Z - normal: Load ~/.CocosCreator/settings.json
-2017-05-18T06:09:25.191Z - normal: checking language setting...
-2017-05-18T06:09:25.192Z - normal: Language: zh
-2017-05-18T06:09:26.119Z - success: protocol editor-framework registered
-2017-05-18T06:09:26.119Z - success: protocol app registered
-2017-05-18T06:09:26.119Z - success: protocol theme registered
-2017-05-18T06:09:26.120Z - success: protocol profile registered
-2017-05-18T06:09:26.120Z - success: protocol packages registered
-2017-05-18T06:09:26.123Z - success: protocol unpack registerred
-2017-05-18T06:09:26.124Z - success: protocol disable-commonjs registerred
-2017-05-18T06:09:26.375Z - normal: connected!
-2017-05-18T06:09:26.380Z - normal: Check project /Users/leeliu/NiuNiuG
-2017-05-18T06:09:26.383Z - normal: Initializing Cocos2d
-2017-05-18T06:09:26.690Z - normal: Initializing Asset Database
-2017-05-18T06:09:26.722Z - success: protocol uuid registerred
-2017-05-18T06:09:26.722Z - success: protocol db registerred
-2017-05-18T06:09:26.722Z - success: protocol thumbnail registerred
-2017-05-18T06:09:26.723Z - normal: Loading editor/builtin packages
-2017-05-18T06:09:27.026Z - success: assets loaded
-2017-05-18T06:09:27.031Z - success: builder loaded
-2017-05-18T06:09:27.036Z - success: hierarchy loaded
-2017-05-18T06:09:27.050Z - success: inspector loaded
-2017-05-18T06:09:27.053Z - success: keystore loaded
-2017-05-18T06:09:27.059Z - success: node-library loaded
-2017-05-18T06:09:27.061Z - success: preferences loaded
-2017-05-18T06:09:27.085Z - success: project-importer loaded
-2017-05-18T06:09:27.091Z - success: project-settings loaded
-2017-05-18T06:09:27.100Z - success: ui-kit loaded
-2017-05-18T06:09:27.231Z - success: ui-grid loaded
-2017-05-18T06:09:27.254Z - success: scene loaded
-2017-05-18T06:09:27.256Z - success: sprite-editor loaded
-2017-05-18T06:09:27.494Z - success: store loaded
-2017-05-18T06:09:27.502Z - success: timeline loaded
-2017-05-18T06:09:27.503Z - normal: Loading builtin packages
-2017-05-18T06:09:27.512Z - success: anysdk loaded
-2017-05-18T06:09:27.518Z - success: asset-db-debugger loaded
-2017-05-18T06:09:27.521Z - success: code-editor loaded
-2017-05-18T06:09:27.522Z - success: color-picker loaded
-2017-05-18T06:09:27.530Z - success: console loaded
-2017-05-18T06:09:27.537Z - success: package-manager loaded
-2017-05-18T06:09:27.547Z - success: tester loaded
-2017-05-18T06:09:27.551Z - success: ui-kit-preview-extra loaded
-2017-05-18T06:09:27.555Z - success: ui-kit-preview loaded
-2017-05-18T06:09:27.561Z - success: ui-tree loaded
-2017-05-18T06:09:27.642Z - normal: Initializing project /Users/leeliu/NiuNiuG
-2017-05-18T06:09:27.644Z - normal: Loading packages
-2017-05-18T06:09:27.655Z - success: replace-icons loaded
-2017-05-18T06:09:27.667Z - success: resource loaded
-2017-05-18T06:09:27.667Z - normal: Watching packages
-2017-05-18T06:09:27.715Z - normal: Run Application
-2017-05-18T06:09:30.141Z - success: preview server running at http://localhost:7456
-2017-05-18T06:09:30.141Z - normal: Compiling scripts...
-2017-05-18T06:09:33.218Z - normal: Compiled project javascript file successfully
-2017-05-18T06:09:39.085Z - normal: 1.4.2
-2017-05-18T06:09:44.653Z - normal: Simulator: WORKAREA WIDTH 1440.00, HEIGHT 799.00
-2017-05-18T06:09:44.653Z - normal: Simulator: FRAME SCALE = 1.00
-2017-05-18T06:09:44.672Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2017-05-18T06:09:44.673Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2017-05-18T06:09:44.675Z - normal: Simulator: GLFWError #65544 Happen, Cocoa: Failed to retrieve display name
-2017-05-18T06:09:44.823Z - normal: Simulator: 
-2017-05-18T06:09:44.836Z - normal: Simulator: {
-2017-05-18T06:09:44.837Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2017-05-18T06:09:44.838Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2017-05-18T06:09:44.838Z - normal: Simulator: 	cocos2d.x.version: 1.4.1
-2017-05-18T06:09:44.839Z - normal: Simulator: 	gl.vendor: Intel Inc.
-2017-05-18T06:09:44.839Z - normal: Simulator: 	gl.supports_PVRTC: false
-2017-05-18T06:09:44.840Z - normal: Simulator: 	gl.renderer: Intel(R) Iris(TM) Graphics 540
-2017-05-18T06:09:44.840Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2017-05-18T06:09:44.840Z - normal: Simulator: 	gl.max_texture_size: 16384
-2017-05-18T06:09:44.840Z - normal: Simulator: 	gl.supports_ETC1: false
-2017-05-18T06:09:44.841Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2017-05-18T06:09:44.841Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2017-05-18T06:09:44.841Z - normal: Simulator: 	gl.max_texture_units: 16
-2017-05-18T06:09:44.841Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2017-05-18T06:09:44.841Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2017-05-18T06:09:44.842Z - normal: Simulator: 	gl.supports_NPOT: true
-2017-05-18T06:09:44.846Z - normal: Simulator: 	gl.version: 2.1 INTEL-10.18.65
-2017-05-18T06:09:44.846Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2017-05-18T06:09:44.846Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2017-05-18T06:09:44.847Z - normal: Simulator: }
-2017-05-18T06:09:44.849Z - normal: Simulator: 
-2017-05-18T06:09:44.849Z - normal: Simulator: 
-2017-05-18T06:09:44.849Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2017-05-18T06:09:44.849Z - normal: Simulator: Project Config:
-2017-05-18T06:09:44.850Z - normal: Simulator:     project dir: /Applications/CocosCreator.app/Contents/Resources/cocos2d-x/simulator/mac/Simulator.app/Contents/Resources/
-2017-05-18T06:09:44.850Z - normal: Simulator:     writable path: $(PROJDIR)/
-2017-05-18T06:09:44.850Z - normal: Simulator:     script file: $(PROJDIR)/main.js
-2017-05-18T06:09:44.858Z - normal: Simulator:     frame size: 960 x 640
-2017-05-18T06:09:44.859Z - normal: Simulator:     frame scale: 1.00
-2017-05-18T06:09:44.860Z - normal: Simulator:     show console: NO
-2017-05-18T06:09:44.860Z - normal: Simulator:     write debug log: NO ()
-2017-05-18T06:09:44.860Z - normal: Simulator:     listen: 
-2017-05-18T06:09:44.860Z - normal: Simulator:     debugger: none
-2017-05-18T06:09:44.861Z - normal: Simulator:     add searching path:
-2017-05-18T06:09:44.861Z - normal: Simulator: ------------------------------------------------
-2017-05-18T06:09:44.861Z - normal: Simulator: LOAD Js FILE: main.js
-2017-05-18T06:09:44.861Z - normal: Simulator: ------------------------------------------------
-2017-05-18T06:09:45.115Z - normal: Simulator: Cocos2d-JS v3.14
-2017-05-18T06:09:45.780Z - normal: Simulator: iShow!
-2017-05-18T06:09:48.054Z - normal: Simulator: basic_object_finalize 0x1af42910 ...
-2017-05-18T06:09:48.054Z - normal: Simulator: jsbindings: finalizing JS object 0x1af42940 (WebSocket)
-2017-05-18T06:09:48.054Z - normal: Simulator: jsbindings: finalizing JS object 0x1af42970 (SocketIO)
-2017-05-18T06:09:48.055Z - normal: Simulator: basic_object_finalize 0x1af42a00 ...
-2017-05-18T06:09:48.055Z - normal: Simulator: basic_object_finalize 0x1af42ca0 ...
+2017-05-18T06:15:04.831Z - normal: Load ~/.CocosCreator/settings.json
+2017-05-18T06:15:04.837Z - normal: checking language setting...
+2017-05-18T06:15:04.837Z - normal: Language: zh
+2017-05-18T06:15:05.370Z - success: protocol editor-framework registered
+2017-05-18T06:15:05.370Z - success: protocol app registered
+2017-05-18T06:15:05.370Z - success: protocol theme registered
+2017-05-18T06:15:05.370Z - success: protocol profile registered
+2017-05-18T06:15:05.371Z - success: protocol packages registered
+2017-05-18T06:15:05.375Z - success: protocol unpack registerred
+2017-05-18T06:15:05.375Z - success: protocol disable-commonjs registerred
+2017-05-18T06:15:05.741Z - normal: connected!
+2017-05-18T06:15:05.745Z - normal: Check project /Users/leeliu/NiuNiuG
+2017-05-18T06:15:05.748Z - normal: Initializing Cocos2d
+2017-05-18T06:15:06.123Z - normal: Initializing Asset Database
+2017-05-18T06:15:06.150Z - success: protocol uuid registerred
+2017-05-18T06:15:06.151Z - success: protocol db registerred
+2017-05-18T06:15:06.151Z - success: protocol thumbnail registerred
+2017-05-18T06:15:06.151Z - normal: Loading editor/builtin packages
+2017-05-18T06:15:06.425Z - success: assets loaded
+2017-05-18T06:15:06.431Z - success: builder loaded
+2017-05-18T06:15:06.443Z - success: hierarchy loaded
+2017-05-18T06:15:06.450Z - success: inspector loaded
+2017-05-18T06:15:06.452Z - success: keystore loaded
+2017-05-18T06:15:06.457Z - success: node-library loaded
+2017-05-18T06:15:06.460Z - success: preferences loaded
+2017-05-18T06:15:06.484Z - success: project-importer loaded
+2017-05-18T06:15:06.494Z - success: project-settings loaded
+2017-05-18T06:15:06.500Z - success: ui-kit loaded
+2017-05-18T06:15:06.508Z - success: ui-grid loaded
+2017-05-18T06:15:06.577Z - success: scene loaded
+2017-05-18T06:15:06.580Z - success: sprite-editor loaded
+2017-05-18T06:15:06.677Z - success: store loaded
+2017-05-18T06:15:06.697Z - success: timeline loaded
+2017-05-18T06:15:06.698Z - normal: Loading builtin packages
+2017-05-18T06:15:06.747Z - success: anysdk loaded
+2017-05-18T06:15:06.752Z - success: asset-db-debugger loaded
+2017-05-18T06:15:06.755Z - success: code-editor loaded
+2017-05-18T06:15:06.757Z - success: color-picker loaded
+2017-05-18T06:15:06.767Z - success: console loaded
+2017-05-18T06:15:06.801Z - success: package-manager loaded
+2017-05-18T06:15:06.819Z - success: tester loaded
+2017-05-18T06:15:06.829Z - success: ui-kit-preview-extra loaded
+2017-05-18T06:15:06.835Z - success: ui-kit-preview loaded
+2017-05-18T06:15:06.841Z - success: ui-tree loaded
+2017-05-18T06:15:06.948Z - normal: Initializing project /Users/leeliu/NiuNiuG
+2017-05-18T06:15:06.952Z - normal: Loading packages
+2017-05-18T06:15:06.972Z - success: replace-icons loaded
+2017-05-18T06:15:06.980Z - success: resource loaded
+2017-05-18T06:15:06.981Z - normal: Watching packages
+2017-05-18T06:15:07.040Z - normal: Run Application
+2017-05-18T06:15:07.602Z - success: preview server running at http://localhost:7456
+2017-05-18T06:15:13.254Z - normal: 1.4.2
+2017-05-18T06:16:14.756Z - normal: Start building with options : {
+  "androidStudio": false,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/leeliu/NiuNiuG/build",
+  "debug": true,
+  "dest": "/Users/leeliu/NiuNiuG/build/jsb-default",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.helloworld",
+  "platform": "ios",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/helloworld.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "NiuNiuG",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "/Users/leeliu/NiuNiuG",
+  "projectName": "NiuNiuG",
+  "runtimePath": "/Applications/CocosCreator.app/Contents/Resources/engine",
+  "debugBuildWorker": false
+}
+2017-05-18T06:16:14.759Z - normal: Building /Users/leeliu/NiuNiuG
+2017-05-18T06:16:14.759Z - normal: Destination /Users/leeliu/NiuNiuG/build/jsb-default
+2017-05-18T06:16:15.189Z - normal: Checked Python Version [2.7.10]
+2017-05-18T06:16:16.706Z - normal: Creating native cocos project to  /Users/leeliu/NiuNiuG/build/jsb-default
+2017-05-18T06:16:22.029Z - normal: Delete /Users/leeliu/NiuNiuG/build/jsb-default/res/**/*
+2017-05-18T06:16:22.031Z - normal: Delete /Users/leeliu/NiuNiuG/build/jsb-default/src/*/
+2017-05-18T06:16:22.142Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-05-18T06:16:23.620Z - normal: Compiled project javascript file successfully
+2017-05-18T06:16:23.621Z - normal: Start building assets
+2017-05-18T06:16:23.621Z - normal: Start spawn build-worker
+2017-05-18T06:16:24.323Z - normal: Finish spawn build-worker
+2017-05-18T06:16:24.323Z - normal: Start init build-worker
+2017-05-18T06:16:25.253Z - normal: 1.4.2
+2017-05-18T06:16:25.334Z - normal: Finish init build-worker
+2017-05-18T06:16:25.334Z - normal: Start build-assets in worker
+2017-05-18T06:16:25.613Z - normal: Finish build-assets in worker
+2017-05-18T06:16:25.617Z - normal: Finish building assets
+2017-05-18T06:16:25.653Z - normal: Start building raw assets
+2017-05-18T06:16:25.654Z - normal: [build-raw-assets] Start copying /Users/leeliu/NiuNiuG/assets/Texture/HelloWorld.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/HelloWorld.png
+2017-05-18T06:16:25.654Z - normal: [build-raw-assets] Start copying /Users/leeliu/NiuNiuG/assets/Texture/singleColor.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/singleColor.png
+2017-05-18T06:16:25.666Z - normal: [build-raw-assets] Finish copying /Users/leeliu/NiuNiuG/assets/Texture/HelloWorld.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/HelloWorld.png
+2017-05-18T06:16:25.667Z - normal: [build-raw-assets] Finish copying /Users/leeliu/NiuNiuG/assets/Texture/singleColor.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/singleColor.png
+2017-05-18T06:16:25.668Z - normal: Finish building raw assets
+2017-05-18T06:16:25.669Z - normal: Built to "/Users/leeliu/NiuNiuG/build/jsb-default" successfully
+2017-05-18T06:16:42.363Z - normal: Start building with options : {
+  "androidStudio": false,
+  "apiLevel": "android-25",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/leeliu/NiuNiuG/build",
+  "debug": true,
+  "dest": "/Users/leeliu/NiuNiuG/build/jsb-default",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.NiuNiuG",
+  "platform": "android",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/helloworld.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "NiuNiuG",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "/Users/leeliu/NiuNiuG",
+  "projectName": "NiuNiuG",
+  "runtimePath": "/Applications/CocosCreator.app/Contents/Resources/engine",
+  "debugBuildWorker": false
+}
+2017-05-18T06:16:42.364Z - normal: Building /Users/leeliu/NiuNiuG
+2017-05-18T06:16:42.364Z - normal: Destination /Users/leeliu/NiuNiuG/build/jsb-default
+2017-05-18T06:16:42.414Z - normal: Checked Python Version [2.7.10]
+2017-05-18T06:16:44.184Z - normal: Delete /Users/leeliu/NiuNiuG/build/jsb-default/res/**/*
+2017-05-18T06:16:44.185Z - normal: Delete /Users/leeliu/NiuNiuG/build/jsb-default/src/*/
+2017-05-18T06:16:44.265Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-05-18T06:16:46.508Z - normal: Compiled project javascript file successfully
+2017-05-18T06:16:46.508Z - normal: Start building assets
+2017-05-18T06:16:46.509Z - normal: Start spawn build-worker
+2017-05-18T06:16:47.619Z - normal: Finish spawn build-worker
+2017-05-18T06:16:47.620Z - normal: Start init build-worker
+2017-05-18T06:16:49.289Z - normal: 1.4.2
+2017-05-18T06:16:49.440Z - normal: Finish init build-worker
+2017-05-18T06:16:49.440Z - normal: Start build-assets in worker
+2017-05-18T06:16:49.895Z - normal: Finish build-assets in worker
+2017-05-18T06:16:49.900Z - normal: Finish building assets
+2017-05-18T06:16:49.934Z - normal: Start building raw assets
+2017-05-18T06:16:49.934Z - normal: [build-raw-assets] Start copying /Users/leeliu/NiuNiuG/assets/Texture/HelloWorld.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/HelloWorld.png
+2017-05-18T06:16:49.935Z - normal: [build-raw-assets] Start copying /Users/leeliu/NiuNiuG/assets/Texture/singleColor.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/singleColor.png
+2017-05-18T06:16:49.939Z - normal: [build-raw-assets] Finish copying /Users/leeliu/NiuNiuG/assets/Texture/HelloWorld.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/HelloWorld.png
+2017-05-18T06:16:49.940Z - normal: [build-raw-assets] Finish copying /Users/leeliu/NiuNiuG/assets/Texture/singleColor.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/singleColor.png
+2017-05-18T06:16:49.940Z - normal: Finish building raw assets
+2017-05-18T06:16:49.940Z - normal: Built to "/Users/leeliu/NiuNiuG/build/jsb-default" successfully
