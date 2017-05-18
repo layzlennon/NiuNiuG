@@ -1,0 +1,36 @@
+dependencies: \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/JSONDataParser.cpp \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/JSONDataParser.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/DataParser.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../core/DragonBones.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/DragonBonesData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/../core/BaseObject.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/ArmatureData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/../geom/Transform.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/../geom/Matrix.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/../geom/Point.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/../geom/ColorTransform.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/../textures/TextureData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/../textures/../geom/Rectangle.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/AnimationData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/TimelineData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/parsers/../model/FrameData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/document.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/reader.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/allocators.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/rapidjson.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/stream.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/encodings.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/encodedstream.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/memorystream.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/meta.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/stack.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/swap.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/strtod.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/ieee754.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/biginteger.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/diyfp.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/pow10.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/error/error.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/strfunc.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/../stream.h

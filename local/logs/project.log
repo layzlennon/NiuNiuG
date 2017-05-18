@@ -185,3 +185,85 @@
 2017-05-18T06:16:49.940Z - normal: [build-raw-assets] Finish copying /Users/leeliu/NiuNiuG/assets/Texture/singleColor.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/singleColor.png
 2017-05-18T06:16:49.940Z - normal: Finish building raw assets
 2017-05-18T06:16:49.940Z - normal: Built to "/Users/leeliu/NiuNiuG/build/jsb-default" successfully
+2017-05-18T06:22:04.953Z - normal: Start building with options : {
+  "androidStudio": false,
+  "apiLevel": "android-25",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/leeliu/NiuNiuG/build",
+  "debug": true,
+  "dest": "/Users/leeliu/NiuNiuG/build/jsb-default",
+  "excludedModules": [],
+  "includeAnySDK": false,
+  "inlineSpriteFrames": true,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.NiuNiuG",
+  "platform": "ios",
+  "previewHeight": 720,
+  "previewWidth": 1280,
+  "privateKey": "",
+  "renderMode": "0",
+  "scenes": [
+    {
+      "url": "db://assets/Scene/helloworld.fire",
+      "uuid": "2d2f792f-a40c-49bb-a189-ed176a246e49"
+    }
+  ],
+  "sourceMaps": false,
+  "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
+  "template": "default",
+  "title": "NiuNiuG",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "project": "/Users/leeliu/NiuNiuG",
+  "projectName": "NiuNiuG",
+  "runtimePath": "/Applications/CocosCreator.app/Contents/Resources/engine",
+  "debugBuildWorker": false
+}
+2017-05-18T06:22:04.960Z - normal: Building /Users/leeliu/NiuNiuG
+2017-05-18T06:22:04.961Z - normal: Destination /Users/leeliu/NiuNiuG/build/jsb-default
+2017-05-18T06:22:05.031Z - normal: Checked Python Version [2.7.10]
+2017-05-18T06:22:06.854Z - normal: Delete /Users/leeliu/NiuNiuG/build/jsb-default/res/**/*
+2017-05-18T06:22:06.856Z - normal: Delete /Users/leeliu/NiuNiuG/build/jsb-default/src/*/
+2017-05-18T06:22:06.979Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2017-05-18T06:22:09.149Z - normal: Compiled project javascript file successfully
+2017-05-18T06:22:09.150Z - normal: Start building assets
+2017-05-18T06:22:09.150Z - normal: Start spawn build-worker
+2017-05-18T06:22:10.814Z - normal: Finish spawn build-worker
+2017-05-18T06:22:10.814Z - normal: Start init build-worker
+2017-05-18T06:22:12.536Z - normal: 1.4.2
+2017-05-18T06:22:12.687Z - normal: Finish init build-worker
+2017-05-18T06:22:12.687Z - normal: Start build-assets in worker
+2017-05-18T06:22:13.015Z - normal: Finish build-assets in worker
+2017-05-18T06:22:13.020Z - normal: Finish building assets
+2017-05-18T06:22:13.057Z - normal: Start building raw assets
+2017-05-18T06:22:13.058Z - normal: [build-raw-assets] Start copying /Users/leeliu/NiuNiuG/assets/Texture/HelloWorld.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/HelloWorld.png
+2017-05-18T06:22:13.059Z - normal: [build-raw-assets] Start copying /Users/leeliu/NiuNiuG/assets/Texture/singleColor.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/singleColor.png
+2017-05-18T06:22:13.072Z - normal: [build-raw-assets] Finish copying /Users/leeliu/NiuNiuG/assets/Texture/HelloWorld.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/HelloWorld.png
+2017-05-18T06:22:13.072Z - normal: [build-raw-assets] Finish copying /Users/leeliu/NiuNiuG/assets/Texture/singleColor.png to /Users/leeliu/NiuNiuG/build/jsb-default/res/raw-assets/Texture/singleColor.png
+2017-05-18T06:22:13.073Z - normal: Finish building raw assets
+2017-05-18T06:22:13.074Z - normal: Built to "/Users/leeliu/NiuNiuG/build/jsb-default" successfully
+2017-05-18T06:22:32.015Z - normal: Checked Python Version [2.7.10]
+2017-05-18T06:22:33.834Z - normal: Start to compile native project. Please wait...
+2017-05-18T06:22:33.834Z - normal: The log file path [ /Users/leeliu/.CocosCreator/logs/native.log ]
+2017-05-18T06:26:17.218Z - normal: Compile native project successfully.
+2017-05-18T06:26:56.195Z - normal: Start to run project
+2017-05-18T06:26:56.222Z - normal: Checked Python Version [2.7.10]
+2017-05-18T06:26:57.544Z - normal: Start to run project. Please wait...
+2017-05-18T06:26:57.545Z - normal: The log file path [ /Users/leeliu/.CocosCreator/logs/native.log ]
+2017-05-18T06:27:34.132Z - failed: Error: Failed to run project. The log file path [ /Users/leeliu/.CocosCreator/logs/native.log ]
+    at ChildProcess.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:20087)
+    at ChildProcess.<anonymous> (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/core/native-utils.js:1:7408)
+    at emitTwo (events.js:106:13)
+    at ChildProcess.emit (events.js:191:7)
+    at maybeClose (internal/child_process.js:877:16)
+    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)

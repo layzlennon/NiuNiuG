@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/renderer/ccShaders.cpp \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShaders.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/CCGL.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/CCGL-ios.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_Position_uColor.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_Position_uColor.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionColor.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionColor.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionColorTextureAsPointsize.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTexture.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTexture.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTextureA8Color.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTextureA8Color.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTextureColor.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTextureColor.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTextureColor_noMVP.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTextureColor_noMVP.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTextureColorAlphaTest.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTexture_uColor.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionTexture_uColor.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionColorLengthTexture.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_PositionColorLengthTexture.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_UI_Gray.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_SpriteDistortion.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_Label.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_Label_df.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_Label_df_glow.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_Label_normal.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_Label_outline.frag \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_CameraClear.vert \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/renderer/ccShader_CameraClear.frag

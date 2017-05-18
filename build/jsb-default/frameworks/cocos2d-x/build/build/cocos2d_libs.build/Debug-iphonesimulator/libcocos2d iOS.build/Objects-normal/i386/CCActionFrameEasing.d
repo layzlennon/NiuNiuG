@@ -1,0 +1,32 @@
+dependencies: \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/cocostudio/CCActionFrameEasing.cpp \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/CCActionFrameEasing.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/base/CCRef.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformMacros.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/base/ccConfig.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformConfig.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/CCPlatformDefine.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/CCPlatformDefine-ios.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/CocosStudioExport.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/editor-support/cocostudio/DictionaryHelper.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/document.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/reader.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/allocators.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/rapidjson.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/stream.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/encodings.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/encodedstream.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/memorystream.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/meta.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/stack.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/swap.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/strtod.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/ieee754.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/biginteger.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/diyfp.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/pow10.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/error/error.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/strfunc.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../external/sources/json/internal/../stream.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/CCStdC.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/build/../cocos/platform/ios/CCStdC-ios.h

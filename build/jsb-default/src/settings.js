@@ -1,5 +1,5 @@
 _CCSettings = {
-    "platform": "android",
+    "platform": "ios",
     "groupList": [
         "default"
     ],

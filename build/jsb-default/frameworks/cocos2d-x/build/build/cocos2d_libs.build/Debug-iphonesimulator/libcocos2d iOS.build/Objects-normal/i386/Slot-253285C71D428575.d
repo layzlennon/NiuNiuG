@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/Slot.cpp \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/Slot.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/TransformObject.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../core/BaseObject.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../core/DragonBones.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../geom/Matrix.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../geom/Point.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../geom/Transform.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../model/ArmatureData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../model/../geom/ColorTransform.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../model/../textures/TextureData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../model/../textures/../geom/Rectangle.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../model/AnimationData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../model/TimelineData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../model/FrameData.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/Bone.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/Armature.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../animation/IAnimateble.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../events/EventObject.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/IArmatureDisplay.h \
+  /Users/leeliu/NiuNiuG/build/jsb-default/frameworks/cocos2d-x/cocos/editor-support/dragonbones/armature/../animation/Animation.h
