@@ -100,7 +100,20 @@
         "timeline"
       ]
     },
-    "window-1495088121139": {
+    "window-1495178366962": {
+      "main": false,
+      "url": "packages://code-editor/panel/index.html",
+      "windowType": "simple",
+      "x": 560,
+      "y": 217,
+      "width": 800,
+      "height": 622,
+      "layout": null,
+      "panels": [
+        "code-editor"
+      ]
+    },
+    "window-1495178397982": {
       "main": false,
       "url": "unpack://static/window.html",
       "windowType": "dockable",
@@ -125,7 +138,8 @@
       "panels": [
         "builder"
       ]
-    }
+    },
+    "worker": {}
   },
   "panels": {
     "builder": {
@@ -133,6 +147,12 @@
       "y": 31,
       "width": 500,
       "height": 722
+    },
+    "code-editor": {
+      "x": 560,
+      "y": 217,
+      "width": 800,
+      "height": 622
     }
   }
 }
